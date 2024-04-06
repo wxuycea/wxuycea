@@ -1,8 +1,8 @@
-[![numbbvi's GitHub stats-Dark](https://github-readme-stats-six-sooty.vercel.app/api?username=wxuycea&show_icons=true&rank_icon=github&theme=nord#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![numbbvi's GitHub stats-Light](https://github-readme-stats-six-sooty.vercel.app/api?username=wxuycea&show_icons=true&rank_icon=github&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br>
+[![numbbvi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wxuycea&show_icons=true&rank_icon=github&theme=nord#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![numbbvi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=wxuycea&show_icons=true&rank_icon=github&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br>
 
-[![numbbvi's Top Langs-Dark](https://github-readme-stats-six-sooty.vercel.app/api/top-langs/?username=wxuycea&show_icons=true&layout=compact&theme=nord#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![numbbvi's Top Langs-Light](https://github-readme-stats-six-sooty.vercel.appp/api/top-langs/?username=wxuycea&show_icons=true&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![numbbvi's Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=wxuycea&show_icons=true&layout=compact&theme=nord#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![numbbvi's Top Langs-Light]([https://github-readme-stats-six-sooty.vercel.appp/api/top-langs/](https://github-readme-stats.vercel.app/api/top-langs/)?username=wxuycea&show_icons=true&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
 <div align="center">
